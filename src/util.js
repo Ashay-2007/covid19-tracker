@@ -52,7 +52,7 @@ export const showDataOnMap = (data, casesType = "cases") =>
       <Popup>
         <div className="info-container">
           <div
-            className="info-flag"
+            className="info-flag" 
             style={{ backgroundImage: `url(${country.countryInfo.flag})` }}
           ></div>
           <div className="info-name">{country.country}</div>
