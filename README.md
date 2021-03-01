@@ -1,4 +1,5 @@
 # Covid19 Tracker App:
+Gives country-wise statistics of daily covid cases. <br>
 
 👉 A React Messenger App 💻 <br>
 👉 Used an open API for disease-related statistics 🚀 <br>
